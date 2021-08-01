@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisariumNumber", "DisariumN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisariumNumberTests", "DisariumNumberTests\DisariumNumberTests.csproj", "{0620D0CF-E3D7-4ED8-85EE-FE2A8CF77BEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraPerfectNumbers", "ExtraPerfectNumbers\ExtraPerfectNumbers.csproj", "{4A0A977C-0C9E-4297-9B9E-F065A1F0935B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraPerfectNumbersTests", "ExtraPerfectNumbersTests\ExtraPerfectNumbersTests.csproj", "{8D044441-D7B7-47C5-AEDD-3B5F96BEE3F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{0620D0CF-E3D7-4ED8-85EE-FE2A8CF77BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0620D0CF-E3D7-4ED8-85EE-FE2A8CF77BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0620D0CF-E3D7-4ED8-85EE-FE2A8CF77BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0A977C-0C9E-4297-9B9E-F065A1F0935B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0A977C-0C9E-4297-9B9E-F065A1F0935B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0A977C-0C9E-4297-9B9E-F065A1F0935B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0A977C-0C9E-4297-9B9E-F065A1F0935B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D044441-D7B7-47C5-AEDD-3B5F96BEE3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D044441-D7B7-47C5-AEDD-3B5F96BEE3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D044441-D7B7-47C5-AEDD-3B5F96BEE3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D044441-D7B7-47C5-AEDD-3B5F96BEE3F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
