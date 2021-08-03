@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HowManyConsecutiveNumbersNe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HowManyConsecutiveNumbersNeededTests", "HowManyConsecutiveNumbersNeededTests\HowManyConsecutiveNumbersNeededTests.csproj", "{7413BC26-92EF-445C-B65E-1B229CE1B5C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RowWeights", "RowWeights\RowWeights.csproj", "{C9272321-B973-456B-8649-4E715CF8D6E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RowWeights", "RowWeights\RowWeights.csproj", "{C9272321-B973-456B-8649-4E715CF8D6E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RowWeightsTests", "RowWeightsTests\RowWeightsTests.csproj", "{DE1B46C6-8A11-4C0C-968A-74441B9CBCE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RowWeightsTests", "RowWeightsTests\RowWeightsTests.csproj", "{DE1B46C6-8A11-4C0C-968A-74441B9CBCE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsOfIntegersOnCartesianPlane", "FunctionsOfIntegersOnCartesianPlane\FunctionsOfIntegersOnCartesianPlane.csproj", "{8B1D31CC-139A-4896-978E-4B7492B97CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsOfIntegersOnCartesianPlaneTests", "FunctionsOfIntegersOnCartesianPlaneTests\FunctionsOfIntegersOnCartesianPlaneTests.csproj", "{6CEB2B2B-9DBE-4A1E-B975-20C002E725F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{DE1B46C6-8A11-4C0C-968A-74441B9CBCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE1B46C6-8A11-4C0C-968A-74441B9CBCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE1B46C6-8A11-4C0C-968A-74441B9CBCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1D31CC-139A-4896-978E-4B7492B97CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1D31CC-139A-4896-978E-4B7492B97CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1D31CC-139A-4896-978E-4B7492B97CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1D31CC-139A-4896-978E-4B7492B97CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CEB2B2B-9DBE-4A1E-B975-20C002E725F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEB2B2B-9DBE-4A1E-B975-20C002E725F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEB2B2B-9DBE-4A1E-B975-20C002E725F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEB2B2B-9DBE-4A1E-B975-20C002E725F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
