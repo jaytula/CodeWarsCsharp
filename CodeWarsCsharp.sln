@@ -23,9 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RowWeights", "RowWeights\Ro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RowWeightsTests", "RowWeightsTests\RowWeightsTests.csproj", "{DE1B46C6-8A11-4C0C-968A-74441B9CBCE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsOfIntegersOnCartesianPlane", "FunctionsOfIntegersOnCartesianPlane\FunctionsOfIntegersOnCartesianPlane.csproj", "{8B1D31CC-139A-4896-978E-4B7492B97CD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionsOfIntegersOnCartesianPlane", "FunctionsOfIntegersOnCartesianPlane\FunctionsOfIntegersOnCartesianPlane.csproj", "{8B1D31CC-139A-4896-978E-4B7492B97CD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsOfIntegersOnCartesianPlaneTests", "FunctionsOfIntegersOnCartesianPlaneTests\FunctionsOfIntegersOnCartesianPlaneTests.csproj", "{6CEB2B2B-9DBE-4A1E-B975-20C002E725F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionsOfIntegersOnCartesianPlaneTests", "FunctionsOfIntegersOnCartesianPlaneTests\FunctionsOfIntegersOnCartesianPlaneTests.csproj", "{6CEB2B2B-9DBE-4A1E-B975-20C002E725F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDirectionsReversal", "SimpleDirectionsReversal\SimpleDirectionsReversal.csproj", "{854196C9-197B-41EF-B4EC-87797846C861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDirectionsReversalTests", "SimpleDirectionsReversalTests\SimpleDirectionsReversalTests.csproj", "{3D3F17D5-06D1-485D-B645-51381873DDD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{6CEB2B2B-9DBE-4A1E-B975-20C002E725F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CEB2B2B-9DBE-4A1E-B975-20C002E725F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CEB2B2B-9DBE-4A1E-B975-20C002E725F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854196C9-197B-41EF-B4EC-87797846C861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854196C9-197B-41EF-B4EC-87797846C861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854196C9-197B-41EF-B4EC-87797846C861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854196C9-197B-41EF-B4EC-87797846C861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3F17D5-06D1-485D-B645-51381873DDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3F17D5-06D1-485D-B645-51381873DDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3F17D5-06D1-485D-B645-51381873DDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3F17D5-06D1-485D-B645-51381873DDD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
