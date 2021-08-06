@@ -31,9 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleDirectionsReversal", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleDirectionsReversalTests", "SimpleDirectionsReversalTests\SimpleDirectionsReversalTests.csproj", "{3D3F17D5-06D1-485D-B645-51381873DDD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimizeSumOfArray", "MinimizeSumOfArray\MinimizeSumOfArray.csproj", "{C699DB27-51B6-4930-BF94-A24D1ECB4DA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimizeSumOfArray", "MinimizeSumOfArray\MinimizeSumOfArray.csproj", "{C699DB27-51B6-4930-BF94-A24D1ECB4DA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimizeSumOfArrayTests", "MinimizeSumOfArrayTests\MinimizeSumOfArrayTests.csproj", "{9E1D1EB4-3721-41AB-9755-74956ABDE0AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimizeSumOfArrayTests", "MinimizeSumOfArrayTests\MinimizeSumOfArrayTests.csproj", "{9E1D1EB4-3721-41AB-9755-74956ABDE0AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomorphicNumber", "AutomorphicNumber\AutomorphicNumber.csproj", "{CAF118E5-3E0B-4EFF-8189-4E12B48ED610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomorphicNumberTests", "AutomorphicNumberTests\AutomorphicNumberTests.csproj", "{1EFFB115-4695-46D3-8435-8952F4649C13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{9E1D1EB4-3721-41AB-9755-74956ABDE0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E1D1EB4-3721-41AB-9755-74956ABDE0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E1D1EB4-3721-41AB-9755-74956ABDE0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF118E5-3E0B-4EFF-8189-4E12B48ED610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF118E5-3E0B-4EFF-8189-4E12B48ED610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF118E5-3E0B-4EFF-8189-4E12B48ED610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF118E5-3E0B-4EFF-8189-4E12B48ED610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFFB115-4695-46D3-8435-8952F4649C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFFB115-4695-46D3-8435-8952F4649C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFFB115-4695-46D3-8435-8952F4649C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFFB115-4695-46D3-8435-8952F4649C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
