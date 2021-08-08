@@ -35,9 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimizeSumOfArray", "Minim
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimizeSumOfArrayTests", "MinimizeSumOfArrayTests\MinimizeSumOfArrayTests.csproj", "{9E1D1EB4-3721-41AB-9755-74956ABDE0AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomorphicNumber", "AutomorphicNumber\AutomorphicNumber.csproj", "{CAF118E5-3E0B-4EFF-8189-4E12B48ED610}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomorphicNumber", "AutomorphicNumber\AutomorphicNumber.csproj", "{CAF118E5-3E0B-4EFF-8189-4E12B48ED610}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomorphicNumberTests", "AutomorphicNumberTests\AutomorphicNumberTests.csproj", "{1EFFB115-4695-46D3-8435-8952F4649C13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomorphicNumberTests", "AutomorphicNumberTests\AutomorphicNumberTests.csproj", "{1EFFB115-4695-46D3-8435-8952F4649C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBeadsCount", "SimpleBeadsCount\SimpleBeadsCount.csproj", "{14D7A9BB-3C1B-49FD-9424-2579ECA65379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBeadsCountTests", "SimpleBeadsCountTests\SimpleBeadsCountTests.csproj", "{A7F8BDFA-5E33-4034-80E8-9C2FA481D62D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{1EFFB115-4695-46D3-8435-8952F4649C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EFFB115-4695-46D3-8435-8952F4649C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EFFB115-4695-46D3-8435-8952F4649C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D7A9BB-3C1B-49FD-9424-2579ECA65379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D7A9BB-3C1B-49FD-9424-2579ECA65379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D7A9BB-3C1B-49FD-9424-2579ECA65379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D7A9BB-3C1B-49FD-9424-2579ECA65379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F8BDFA-5E33-4034-80E8-9C2FA481D62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F8BDFA-5E33-4034-80E8-9C2FA481D62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F8BDFA-5E33-4034-80E8-9C2FA481D62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F8BDFA-5E33-4034-80E8-9C2FA481D62D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
