@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBeadsCount", "SimpleB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBeadsCountTests", "SimpleBeadsCountTests\SimpleBeadsCountTests.csproj", "{A7F8BDFA-5E33-4034-80E8-9C2FA481D62D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORingArrays", "ORingArrays\ORingArrays.csproj", "{4C226814-6E88-4D35-9EFD-91D302D90F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORingArraysTests", "ORingArraysTests\ORingArraysTests.csproj", "{8C15F004-1E35-4527-BAA1-41B3649C324B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{A7F8BDFA-5E33-4034-80E8-9C2FA481D62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7F8BDFA-5E33-4034-80E8-9C2FA481D62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7F8BDFA-5E33-4034-80E8-9C2FA481D62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C226814-6E88-4D35-9EFD-91D302D90F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C226814-6E88-4D35-9EFD-91D302D90F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C226814-6E88-4D35-9EFD-91D302D90F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C226814-6E88-4D35-9EFD-91D302D90F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C15F004-1E35-4527-BAA1-41B3649C324B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C15F004-1E35-4527-BAA1-41B3649C324B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C15F004-1E35-4527-BAA1-41B3649C324B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C15F004-1E35-4527-BAA1-41B3649C324B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
