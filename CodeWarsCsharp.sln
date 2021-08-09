@@ -39,13 +39,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomorphicNumber", "Automo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomorphicNumberTests", "AutomorphicNumberTests\AutomorphicNumberTests.csproj", "{1EFFB115-4695-46D3-8435-8952F4649C13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBeadsCount", "SimpleBeadsCount\SimpleBeadsCount.csproj", "{14D7A9BB-3C1B-49FD-9424-2579ECA65379}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleBeadsCount", "SimpleBeadsCount\SimpleBeadsCount.csproj", "{14D7A9BB-3C1B-49FD-9424-2579ECA65379}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBeadsCountTests", "SimpleBeadsCountTests\SimpleBeadsCountTests.csproj", "{A7F8BDFA-5E33-4034-80E8-9C2FA481D62D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleBeadsCountTests", "SimpleBeadsCountTests\SimpleBeadsCountTests.csproj", "{A7F8BDFA-5E33-4034-80E8-9C2FA481D62D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORingArrays", "ORingArrays\ORingArrays.csproj", "{4C226814-6E88-4D35-9EFD-91D302D90F68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ORingArrays", "ORingArrays\ORingArrays.csproj", "{4C226814-6E88-4D35-9EFD-91D302D90F68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORingArraysTests", "ORingArraysTests\ORingArraysTests.csproj", "{8C15F004-1E35-4527-BAA1-41B3649C324B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ORingArraysTests", "ORingArraysTests\ORingArraysTests.csproj", "{8C15F004-1E35-4527-BAA1-41B3649C324B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLeaders", "ArrayLeaders\ArrayLeaders.csproj", "{F1D57386-212C-4C00-B31C-A2B932F6D650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLeadersTests", "ArrayLeadersTests\ArrayLeadersTests.csproj", "{3FFB25E9-D811-4325-A83C-376293B33D0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{8C15F004-1E35-4527-BAA1-41B3649C324B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C15F004-1E35-4527-BAA1-41B3649C324B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C15F004-1E35-4527-BAA1-41B3649C324B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D57386-212C-4C00-B31C-A2B932F6D650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D57386-212C-4C00-B31C-A2B932F6D650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D57386-212C-4C00-B31C-A2B932F6D650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D57386-212C-4C00-B31C-A2B932F6D650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFB25E9-D811-4325-A83C-376293B33D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFB25E9-D811-4325-A83C-376293B33D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFB25E9-D811-4325-A83C-376293B33D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFB25E9-D811-4325-A83C-376293B33D0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
